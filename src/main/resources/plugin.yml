@@ -1,0 +1,12 @@
+    main: com.mc.rpmanager.RPManagerMain
+    name: RPManager
+    version: 1.0
+    author: Grai (jeremy thulliez)
+    description: A super cool plugin that will add some extra feature to a minecraft server
+    commands:
+      hello:
+        description: The hello command
+        usage: /hello
+        permission: 
+        permission-message: You don't have the rpmanager.hello permission.
+
